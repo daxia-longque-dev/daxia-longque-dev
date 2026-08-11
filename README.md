@@ -17,7 +17,48 @@ Asia.
 
 -🌐 Website: en.szdx-smart.com
 
+## Module Repository
 
+-Beacon: Bluetooth Beacon Module Package
+
+-LoRa Module: LoRa Module Package
+
+-LoRaWAN Module: LoRaWAN Module Package
+
+-Bluetooth Module: Bluetooth Module Package
+
+-WiFi Module: WiFi Module Package
+
+-Wireless Adapter: Wireless Adapter Package
+
+-2.4G Module: 2.4G Wireless Module Package
+
+-GPS Module : GPS Positioning Module Package
+
+## Video Tutorials
+#### https://www.bilibili.com/video/BV1XC4y1K7Mc
+
+## Three Ways to Get Product Resources
+1.555
+
+2.5555
+
+3.555555
+
+## Customization Service
+
+#### We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+
+#### ✅ Software Customization
+We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
+
+#### ✅ Hardware Customization
+We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+
+#### ✅ Solution Customization
+We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
+
+#### We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
 <!--
 **daxia-longque-dev/daxia-longque-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
