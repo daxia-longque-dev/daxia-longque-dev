@@ -43,7 +43,7 @@ bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https:
 ### Three Ways to Get Product Resources
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
-1. [GitHub (Current Repository)](https://github.com/daxia-longque-dev/WiFi-Module)
+1. [GitHub (Current Repository)]((https://github.com/repos?q=owner%3A%40me))
 
 All official resources are maintained and updated here. Browse the repository list above to find the folder corresponding to your module model.
 
