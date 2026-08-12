@@ -1,75 +1,68 @@
 # Welcome to daxia-longque大夏龙雀's GitHub
 
-#### daxia-longque(大夏龙雀)|Official Open Source Organization of Shenzhen Daxia Longque Technology Co., Ltd.[eos]
+daxia-longque(大夏龙雀)|Official Open Source Organization of Shenzhen Daxia Longque Technology Co., Ltd.[eos]
 
-#### 🏭Entity Background: Founded in 2014, a national high-tech enterprise, dedicated to the field of loT wireless communications for
+🏭Entity Background: Founded in 2014, a national high-tech enterprise, dedicated to the field of loT wireless communications for
 over 10 years+[eos]
 
-#### 📡Core Business: Research, development, and production of communication modules such as Bluetooth, 4G, LoRa, WiFi, and GNSS
+📡Core Business: Research, development, and production of communication modules such as Bluetooth, 4G, LoRa, WiFi, and GNSS
 modules, with cumulative shipments exceeding hundreds of millions.
 
-#### 🌎Our products are exported to global markets including the United States, Europe, South Korea, Japan, Brazil, Russia, and Southeast
+🌎Our products are exported to global markets including the United States, Europe, South Korea, Japan, Brazil, Russia, and Southeast
 Asia.
 
--📧 Email: manager@szdx-smart.com
+- 📧 Email: manager@szdx-smart.com
 
--💬 WhatsApp: +86 15798463070
+- 💬 WhatsApp: +86 15798463070
 
--🌐 Website: en.szdx-smart.com
+- 🌐 Website: [en.szdx-smart.com](https://www.szdx-smart.com/zlxz/lymk.htm)
 
-## Module Repository
+### Module Repository
 
--Beacon: Bluetooth Beacon Module Package
+- [4G Module](https://github.com/daxia-longque-dev/4G-Module): 4G Module Package
 
--LoRa Module: LoRa Module Package
+- [WiFi Module](): WiFi Module Package
 
--LoRaWAN Module: LoRaWAN Module Package
+- [LoRa Module](): LoRa Module Package
 
--Bluetooth Module: Bluetooth Module Package
+- [Bluetooth Module](https://github.com/daxia-longque-dev/Bluetooth-Module): Bluetooth Module Package
 
--WiFi Module: WiFi Module Package
+- [Beacon](https://github.com/daxia-longque-dev/Beacon): Bluetooth Beacon Module Package
 
--Wireless Adapter: Wireless Adapter Package
+- [Wireless Adapter](): Wireless Adapter Package
 
--2.4G Module: 2.4G Wireless Module Package
+- [LoRaWAN Module](https://github.com/daxia-longque-dev/LoRa-Module): LoRaWAN Module Package
 
--GPS Module : GPS Positioning Module Package
+- [GPS Module](https://github.com/daxia-longque-dev/GPS-Module) : GPS Positioning Module Package
 
-## Video Tutorials
-#### https://www.bilibili.com/video/BV1XC4y1K7Mc
+- [2.4G Module](): 2.4G Wireless Module Package
 
-## Three Ways to Get Product Resources
-1.555
+### Video Tutorials
+bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https://space.bilibili.com/558265645) Search your module model for step-by-step tutorials.
 
-2.5555
+### Three Ways to Get Product Resources
+We provide three official channels for you to download the latest documents, firmware, and tools.
 
-3.555555
+1. [GitHub (Current Repository)](https://github.com/daxia-longque-dev/WiFi-Module)
 
-## Customization Service
+All official resources are maintained and updated here. Browse the repository list above to find the folder corresponding to your module model.
 
-#### We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+3. [Baidu Drive](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
 
-#### ✅ Software Customization
+4. [Official Website](https://www.szdx-smart.com/zlxz/lymk.html)
+
+### Customization Service
+
+We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
+
+✅ Software Customization
 We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
 
-#### ✅ Hardware Customization
+✅ Hardware Customization
 We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
 
-#### ✅ Solution Customization
+✅ Solution Customization
 We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
 
-#### We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
-<!--
-**daxia-longque-dev/daxia-longque-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
