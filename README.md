@@ -17,7 +17,9 @@ Asia.
 
 - 🌐 Website: [en.szdx-smart.com](https://www.szdx-smart.com/zlxz/lymk.htm)
 
-### Module Repository
+---
+
+### 📦Module Repository
 
 - [4G Module](https://github.com/daxia-longque-dev/4G-Module): 4G Module Package
 
@@ -37,32 +39,35 @@ Asia.
 
 - [2.4G Module](): 2.4G Wireless Module Package
 
-### Video Tutorials
+---
+
+### 🎬Video Tutorials
 bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https://space.bilibili.com/558265645) Search your module model for step-by-step tutorials.
 
-### Three Ways to Get Product Resources
+---
+
+### 📥Three Ways to Get Product Resources
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
-1. [GitHub (Current Repository)]((https://github.com/repos?q=owner%3A%40me))
+1. [GitHub (Current Repository)](https://github.com/repos?q=owner%3A%40me)
 
 All official resources are maintained and updated here. Browse the repository list above to find the folder corresponding to your module model.
 
-3. [Baidu Drive](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
+2. [Baidu Cloud](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
 
-4. [Official Website](https://www.szdx-smart.com/zlxz/lymk.html)
+3. [Official Website](https://www.szdx-smart.com/zlxz/lymk.html)
 
-### Customization Service
+---
+
+### 🛠️Customization Service
 
 We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
 
-✅ Software Customization
-We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
+✅ Software Customization：We can develop and customize programs for wireless modules according to your specific software requirements, including firmware optimization, function development, and protocol customization.
 
-✅ Hardware Customization
-We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
+✅ Hardware Customization：We offer customized PCBA solutions tailored to your hardware needs, supporting circuit design, hardware modification, and structural optimization.
 
-✅ Solution Customization
-We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
+✅ Solution Customization：We provide end-to-end overall solution customization and development based on your project requirements, helping you quickly complete product deployment and launch.
 
 We support OEM / ODM for Bluetooth, LoRa, WiFi, GPS, and Beacon modules. Welcome to contact us for personalized solutions.
 
