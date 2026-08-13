@@ -23,15 +23,14 @@ Asia.
 
 Click the link below to access the corresponding module resource package：
 
-- [4G Module](https://github.com/daxia-longque-dev/4G-Module): 4G Module Package
-- [WiFi Module](): WiFi Module Package
-- [LoRa Module](): LoRa Module Package
-- [Bluetooth Module](https://github.com/daxia-longque-dev/Bluetooth-Module): Bluetooth Module Package
-- [Beacon](https://github.com/daxia-longque-dev/Beacon): Bluetooth Beacon Module Package
-- [Wireless Adapter](): Wireless Adapter Package
-- [LoRaWAN Module](https://github.com/daxia-longque-dev/LoRa-Module): LoRaWAN Module Package
-- [GPS Module](https://github.com/daxia-longque-dev/GPS-Module) : GPS Positioning Module Package
-- [2.4G Module](): 2.4G Wireless Module Package
+- [4G Module](https://github.com/daxia-longque-dev/4G-Module)：4G Module Package
+- [WiFi Module](https://github.com/daxia-longque-dev/WiFi-Module)：WiFi Module Package
+- [LoRa Module](https://github.com/daxia-longque-dev/LoRa-Module)：LoRa Module Package
+- [Bluetooth Module](https://github.com/daxia-longque-dev/Bluetooth-Module)：Bluetooth Module Package
+- [Beacon](https://github.com/daxia-longque-dev/Beacon)：Bluetooth Beacon Module Package
+- [Wireless Adapter](https://github.com/daxia-longque-dev/Wireless-Adapter)：Wireless Adapter Package
+- [GPS Module](https://github.com/daxia-longque-dev/GPS-Module)：GPS Positioning Module Package
+- [2.4G Module](https://github.com/daxia-longque-dev/2.4G-Module)：2.4G Wireless Module Package
 
 ---
 
