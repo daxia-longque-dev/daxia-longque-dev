@@ -19,34 +19,26 @@ Asia.
 
 ---
 
-### 📦Module Repository
+## 📦Module Repository
 
 - [4G Module](https://github.com/daxia-longque-dev/4G-Module): 4G Module Package
-
 - [WiFi Module](): WiFi Module Package
-
 - [LoRa Module](): LoRa Module Package
-
 - [Bluetooth Module](https://github.com/daxia-longque-dev/Bluetooth-Module): Bluetooth Module Package
-
 - [Beacon](https://github.com/daxia-longque-dev/Beacon): Bluetooth Beacon Module Package
-
 - [Wireless Adapter](): Wireless Adapter Package
-
 - [LoRaWAN Module](https://github.com/daxia-longque-dev/LoRa-Module): LoRaWAN Module Package
-
 - [GPS Module](https://github.com/daxia-longque-dev/GPS-Module) : GPS Positioning Module Package
-
 - [2.4G Module](): 2.4G Wireless Module Package
 
 ---
 
-### 🎬Video Tutorials
+## 🎬Video Tutorials
 bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https://space.bilibili.com/558265645) Search your module model for step-by-step tutorials.
 
 ---
 
-### 📥Three Ways to Get Product Resources
+## 📥Three Ways to Get Product Resources
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
 1. [GitHub (Current Repository)](https://github.com/repos?q=owner%3A%40me)
@@ -59,7 +51,7 @@ All official resources are maintained and updated here. Browse the repository li
 
 ---
 
-### 🛠️Customization Service
+## 🛠️Customization Service
 
 We provide comprehensive customization services for all DX-SMART wireless modules, covering software, hardware, and overall solutions to meet your unique project needs.
 
