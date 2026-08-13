@@ -21,6 +21,8 @@ Asia.
 
 ## 📦Module Repository
 
+Click the link below to access the corresponding module resource package：
+
 - [4G Module](https://github.com/daxia-longque-dev/4G-Module): 4G Module Package
 - [WiFi Module](): WiFi Module Package
 - [LoRa Module](): LoRa Module Package
@@ -42,8 +44,6 @@ bilibili Official Channel：[https://www.bilibili.com/video/BV1XC4y1K7Mc](https:
 We provide three official channels for you to download the latest documents, firmware, and tools.
 
 1. [GitHub (Current Repository)](https://github.com/repos?q=owner%3A%40me)
-
-All official resources are maintained and updated here. Browse the repository list above to find the folder corresponding to your module model.
 
 2. [Baidu Cloud](https://pan.baidu.com/s/1TM_bhhZxs1XYpwCInLnWmQ?pwd=DXLQ)
 
